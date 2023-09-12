@@ -22,4 +22,4 @@ feature that determines the countdown of the auction timer.<br>
 <br>
 Like many side projects, I will never finish this and there is nothing you can do about it.
 
-_~ tmehr_
+_~tmehr_
