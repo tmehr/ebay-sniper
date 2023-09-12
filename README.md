@@ -10,7 +10,7 @@ For educational purposes only. See eBay API License Agreement for details if you
 
 ### Context 
 My company made the decision to move from `Spring Boot` to `Quarkus` as the technical direction for new microservices/API's.
-I wanted to get familiar with `Quarkus` as quickly as possible, so I started this project as proof of concept. Basically,
+I wanted to get familiar with `Quarkus` as quickly as possible, so I started this project as a proof of concept. Basically,
 create a few API's with authentication, call out to a 3rd party API, get a feel for some of the different annotations 
 and the ways `Quarkus` differed from `Spring Boot`, etc. <br>
 <br>
