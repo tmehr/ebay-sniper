@@ -4,7 +4,7 @@
 ### Disclaimer
 For educational purposes only. See eBay API License Agreement for details if you intend to use this.
 
-### Context
+### Prerequisites
 - an eBay API token, which can be obtained by signing up for an eBay developer account (if you are actually bidding, it needs those permissions)
 - Curl client/API client of choice (I used Postman)
 
